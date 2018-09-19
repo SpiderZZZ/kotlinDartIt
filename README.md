@@ -1,5 +1,5 @@
 # kotlinDartIt
-Тестовое задание # 2 для DartIT
+Тестовое задание
 
 ## Настройки
 Заданы в build.gradle раздел systemProperties. Для запуска тестов в различных браузерах требуется наличие соответствующих драйверов в системной переменной PATH (IEDriver, GoogleChromeDriver, GeckoDriver)
